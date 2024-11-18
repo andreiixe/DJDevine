@@ -17,8 +17,7 @@ It's a discord bot that plays radio stations by adding what radio you want, it g
 </details>
 
 # How do I run it?
-<details>
-<summary><b>LINUX</b></summary>
+<b>LINUX</b>
 1. **Install Python, pip and FFMPEG:**
 
     ```bash
@@ -43,7 +42,7 @@ It's a discord bot that plays radio stations by adding what radio you want, it g
    python3 main.py
    ```
 
-<summary><b>WINDOWS</b></summary>
+<b>WINDOWS</b>
 1. **Install Python and pip**:
    - Download and install Python from [python.org](https://www.python.org/downloads/).
    - Make sure to check the box **"Add Python to PATH"** during installation.
@@ -72,4 +71,3 @@ It's a discord bot that plays radio stations by adding what radio you want, it g
    ```bash
    python main.py
    ```
-</details>
