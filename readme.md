@@ -42,12 +42,7 @@ It's a discord bot that plays radio stations by adding what radio you want, it g
     ```bash
    python3 main.py
    ```
-</details>
 
-
-<BR>
-
-<details>
 <summary><b>WINDOWS</b></summary>
 1. **Install Python and pip**:
    - Download and install Python from [python.org](https://www.python.org/downloads/).
