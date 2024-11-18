@@ -1,5 +1,5 @@
 <div align="center">
-<img src="docs/logo.png" width="50%">
+<img src="docs/Logo.png" width="50%">
  <br>DJDevine<br>
  A discord radio bot for your soul :D
 </div>
@@ -43,6 +43,9 @@ It's a discord bot that plays radio stations by adding what radio you want, it g
    python3 main.py
    ```
 </details>
+
+
+<BR>
 
 <details>
 <summary><b>WINDOWS</b></summary>
