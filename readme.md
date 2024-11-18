@@ -1,6 +1,6 @@
 <div align="center">
 <img src="docs/Logo.png" width="50%">
- <br>DJDevine<br>
+ <br><h1>DJDevine</h1><br>
  A discord radio bot for your soul :D
 </div>
 <br>
